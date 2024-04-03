@@ -26,3 +26,7 @@
 **git pull origin master**
 ```git pull origin master``` command pulls all the new code from remote repo to the local
 ![git pull origin master](images/git_pull.png)
+
+**git merge <branchname>**
+```git merge <branchname>``` merges the branch in the master or main branch
+![git merge](images/git_merge.png)
