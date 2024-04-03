@@ -24,6 +24,7 @@
 ![git checkout -b <branchname>](images/git_checkout.png)
 
 **git branch**
+```git branch``` shows all the branches
 ![git branch](images/git_branch.png)
 
 **git pull origin master**
