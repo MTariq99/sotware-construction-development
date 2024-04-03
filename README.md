@@ -16,7 +16,7 @@
 **git remote add origin**
 ```git remote add origin``` command add remote repo
 ![git remote add origin](images/git_remote.png)
-**git push **
+**git push**
 ```git push origin``` command pushes all the staged changes to the remote repo
 ![git push origin](images/git_push.png)
 **git checkout -b newbranch**
