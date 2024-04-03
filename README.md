@@ -4,7 +4,7 @@
 **git init**
 ```git init``` command initializes empty git repository
 ![git init](images/git_init.png)
-**git add **
+**git add**
 ```git add .``` addes all the changes to git repository
 ![git add .](images/git_add.png)
 **git status**
