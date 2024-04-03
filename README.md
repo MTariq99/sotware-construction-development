@@ -22,3 +22,7 @@
 **git checkout -b newbranch**
 ```git checkout -b newbranch``` creates new branch and checks in that branch
 ![git checkout -b <branchname>](images/git_checkout.png)
+
+**git pull origin master**
+```git pull origin master``` command pulls all the new code from remote repo to the local
+![git pull origin master](images/git_pull.png)
